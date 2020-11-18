@@ -1,5 +1,12 @@
 # L-Systems
 L-Systems made in Unity- Standalone application.
+
+This project can be built into a standalone Windows application.
+Hopefully this will be of help in understanding how L-Systems can be made in Unity and C# particularly.
+
+The code can be improved in several ways. Its architecture is not the best, and the case-specific methods can be improved by changing them with for loops. Its performance can also be improved by changing the 3D generation system by using Unity's GUI features. This would make the solution an in-editor one only.
+
+//Info for usage.
 This project and all of its files are property of Giacomo Mazza only. This project can be used in a non-commercial way when properly attributed as written below:
 
 //L-System solution made by Giacomo Mazza --- 2019/2020 --- postagiacomo@gmail.com
@@ -14,4 +21,4 @@ Shall the link not be available or cease to exist, the song to dance to will be 
 
 All changes to this code and to its changed variations belong to the author of this project.
 
-Notes: the code can be improved by adding for loops instead of... those things.
+Notes: the code can be improved by adding for loops instead of its case-specific functions.
